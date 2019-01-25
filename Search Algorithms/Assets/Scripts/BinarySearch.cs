@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-public static class BinarySearch
+﻿public static class BinarySearch
 {
     public static int[] SearchArray(int[] sortedArray, int target)
     {
