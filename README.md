@@ -1,2 +1,2 @@
-# search-algorithms
-Search algorithms written in C# ready for use in Unity
+# cs-fundamentals
+Search algorithms, sort algorithms and data structures written in C# and ready for use in Unity.
