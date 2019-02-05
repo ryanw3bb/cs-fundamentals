@@ -6,8 +6,8 @@
 
         int leftIdx = ExtremeInsertionIndex(sortedArray, target, true);
 
-        // assert that `leftIdx` is within the array bounds and that `target`
-        // is actually in `nums`.
+        // assert that 'leftIdx' is within the array bounds and that `target`
+        // is actually in 'nums'.
         if(leftIdx == sortedArray.Length || sortedArray[leftIdx] != target)
         {
             return targetRange;
